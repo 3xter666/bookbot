@@ -1,6 +1,6 @@
 # BookBot
 
-BookBot is a text analysis tool developed as part of the [Boot.dev](https://www.boot.dev) curriculum. It analyzes text files and provides word count and character frequency statistics.
+BookBot is a text analysis tool that analyzes text files and provides word count and character frequency statistics.
 
 ## Features
 
